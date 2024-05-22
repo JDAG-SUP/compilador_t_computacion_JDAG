@@ -1,0 +1,23 @@
+// Declaración de variables
+int x;
+float y;
+double z;
+
+// Asignación de valores
+x = 10;
+y = 3.14;
+z = 2.718;
+
+// Sentencia if
+if (x > 5) {x = x * 2;
+} else {
+    x = x / 2;
+}
+
+// Sentencia while
+while (y > 0.0) {
+    y = y - 0.1;
+}
+
+// Expresión aritmética
+z = x + y * 2.0 / 3.0;

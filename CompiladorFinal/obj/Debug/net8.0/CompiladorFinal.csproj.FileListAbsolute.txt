@@ -1,0 +1,14 @@
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\bin\Debug\net8.0\CompiladorFinal.exe
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\bin\Debug\net8.0\CompiladorFinal.deps.json
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\bin\Debug\net8.0\CompiladorFinal.runtimeconfig.json
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\bin\Debug\net8.0\CompiladorFinal.dll
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\bin\Debug\net8.0\CompiladorFinal.pdb
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\obj\Debug\net8.0\CompiladorFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\obj\Debug\net8.0\CompiladorFinal.AssemblyInfoInputs.cache
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\obj\Debug\net8.0\CompiladorFinal.AssemblyInfo.cs
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\obj\Debug\net8.0\CompiladorFinal.csproj.CoreCompileInputs.cache
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\obj\Debug\net8.0\CompiladorFinal.dll
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\obj\Debug\net8.0\refint\CompiladorFinal.dll
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\obj\Debug\net8.0\CompiladorFinal.pdb
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\obj\Debug\net8.0\CompiladorFinal.genruntimeconfig.cache
+C:\Users\supap\source\repos\CompiladorFinal\CompiladorFinal\obj\Debug\net8.0\ref\CompiladorFinal.dll

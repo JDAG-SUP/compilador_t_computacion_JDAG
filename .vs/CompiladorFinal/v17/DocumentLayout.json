@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|c:\\users\\supap\\source\\repos\\compiladorfinal\\compiladorfinal\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|solutionrelative:compiladorfinal\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|C:\\Users\\supap\\source\\repos\\CompiladorFinal\\compiladorfinal\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|solutionrelative:compiladorfinal\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|C:\\Users\\supap\\source\\repos\\CompiladorFinal\\compiladorfinal\\sourcefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|solutionrelative:compiladorfinal\\sourcefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|C:\\Users\\supap\\source\\repos\\CompiladorFinal\\compiladorfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|solutionrelative:compiladorfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|C:\\Users\\supap\\source\\repos\\CompiladorFinal\\compiladorfinal\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7E235D-26E1-4A4F-B4C3-06F03A2A2A4C}|CompiladorFinal\\CompiladorFinal.csproj|solutionrelative:compiladorfinal\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SourceFile.cs",
+              "DocumentMoniker": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\SourceFile.cs",
+              "RelativeDocumentMoniker": "CompiladorFinal\\SourceFile.cs",
+              "ToolTip": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\SourceFile.cs",
+              "RelativeToolTip": "CompiladorFinal\\SourceFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:39:02.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\Parser.cs",
+              "RelativeDocumentMoniker": "CompiladorFinal\\Parser.cs",
+              "ToolTip": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\Parser.cs",
+              "RelativeToolTip": "CompiladorFinal\\Parser.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:55:39.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\Lexer.cs",
+              "RelativeDocumentMoniker": "CompiladorFinal\\Lexer.cs",
+              "ToolTip": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\Lexer.cs",
+              "RelativeToolTip": "CompiladorFinal\\Lexer.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAQwG8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:54:25.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\Token.cs",
+              "RelativeDocumentMoniker": "CompiladorFinal\\Token.cs",
+              "ToolTip": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\Token.cs",
+              "RelativeToolTip": "CompiladorFinal\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:53:13.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\Program.cs",
+              "RelativeDocumentMoniker": "CompiladorFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\supap\\source\\repos\\CompiladorFinal\\CompiladorFinal\\Program.cs",
+              "RelativeToolTip": "CompiladorFinal\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:51:14.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
